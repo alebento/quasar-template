@@ -1,0 +1,1 @@
+.login-page{display:flex;flex:1;height:100vh}.login-column{display:flex;flex-direction:column;flex:.3;height:100%;background:rgba(0,0,0,.2)}.login-box{width:60%;padding:32px;border-radius:10px;background-color:#fff9}.login-button{width:100%}.image-column{display:flex;flex:.7;height:100%}
